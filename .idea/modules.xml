@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CRMS.iml" filepath="$PROJECT_DIR$/CRMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jar files/jCalander jar 1.4/jCalander jar 1.4.iml" filepath="$PROJECT_DIR$/Jar files/jCalander jar 1.4/jCalander jar 1.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jar files/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47.iml" filepath="$PROJECT_DIR$/Jar files/mysql-connector-java-5.1.47/mysql-connector-java-5.1.47.iml" />
+    </modules>
+  </component>
+</project>
